@@ -13,7 +13,7 @@ We will use **data analysis and computational models** to quantify and analyze t
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 The project consists of **two main parts**:
 - **Web Scraping Module**: Automatically collects artwork images and metadata (e.g., upvotes) from platforms like Reddit.
 - **Evaluation Functions**: Implements algorithms to assess the three core parameters and determine an artwork's value.
@@ -49,19 +49,20 @@ Art is more than just visuals; the meaning behind it adds depth. This aspect eva
 ---
 
 ## 🛠 Features & Implementation
-✅ **Web Scraping:**
+● **Web Scraping:**
 - Collects images and metadata from Reddit's /r/Art.
 - Saves images with filenames corresponding to their upvote count.
 
-✅ **Automated Image Analysis:**
+● **Automated Image Analysis:**
 - Functions to assess art based on the above parameters.
 - Uses Machine Learning and Statistical Analysis to determine **the relative weight of each characteristic**.
 
-✅ **Data Science & Insights:**
+● **Data Science & Insights:**
 - Extensive **data analysis** to compare how different characteristics influence an artwork's popularity and value.
 
 
 ---
 
-🚀 Expand analysis using AI-based image processing to automatically classify artistic styles.
-📊 Develop a dashboard for real-time insights into trending artistic elements.
+ Expand analysis using AI-based image processing to automatically classify artistic styles.
+ Develop a dashboard for real-time insights into trending artistic elements.
+
